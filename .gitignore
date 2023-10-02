@@ -1,0 +1,7 @@
+/venv
+/dataset/flowers
+
+__pycache__/
+
+.vscode/
+config.yaml
